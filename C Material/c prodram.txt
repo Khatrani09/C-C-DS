@@ -1,0 +1,73 @@
+	Write program to “Hello World”.
+	Comment line & multi comment line
+	
+	1) 9*4/2+12			2) 6*9+45/5
+	3) 123/1*2-63		4) 8+30*7/6
+	5) 11*11-8/1		6) 6*2/6*12
+	7) 8*6+76/3			8) 70-55+63-40
+	9) 10*1+27*12		10) 21+72/31-1
+	11) 42+(30+47-20)	12) 42+(57+21)*3
+	13) 77+43*9-61		14) 40-(71*4)/6
+	15) (26-1)*2+100	16) 83+(64/2)*10
+	17) (65+18-14)*7	18) (1*2)+92-53
+	19) 76+26+70*1		20)(98+58-86)-84
+	
+	simple addition program to print.
+	Integer assignment -> declaration & initialization
+
+	Write program given subjects total marks & percentage.
+	Convert to dollar into Rupees.
+	Convert to Feet into Inches.
+	Convert to Inches into Centimeter.	
+	Convert to Celsius into Fahrenheit. (0c*(9/5) + 32 =32F)
+
+	C program to calculate Area of Circle.
+	C program to calculate Area of Square.
+	C program to calculate Area of Rectangle.
+	C program to calculate Area of Triangle.
+	C program to convert days of years, weeks and days.
+	
+	Scanf function introduction
+	
+	
+	Write program to given data.
+       Rate		qty		amt		dis5%	billamt	gst18%	NetBill
+		50		200		10000	500		9500	   ?    ? 
+	
+	
+	using oprator (relation & logical)
+	
+	Enter two value find smallest.
+	Enter one value find its positive or negative.
+	Enter one value find its divisible by 5 or not.
+	Enter one value find its divisible by 5 and 3 or not.
+	Enter a, b, c find largest among them.
+	
+	
+	nested if and ladder if using (largest number program)
+	
+	if vali program pdf
+	
+	unary oprator (increment and decrement, mix)
+	
+	char introduction and ascii value
+	
+	Enter a char vowel(a,e,i,o,u) or consonant.
+	convert case --> a -> A ,  A -> a
+	
+	For loop introduction
+	
+	print 10-1
+	print 51-99
+	enter n print 1 to n
+	enter n print n to 1
+	emter n print -n to n
+	print odd no. up to 50
+	print even no. up to 50
+	print A - Z
+	print A-65.... Z-90
+	print A-a .... Z-z
+	
+	total 1,2,....10 = 55
+	total odd 1,3,5
+	total even 2,4,6

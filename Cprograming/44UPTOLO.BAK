@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	char l,u;
+	int a;
+	clrscr();
+	printf("Enter ch:");
+	scanf("%c",&l);
+	a = l;
+	u = a - 32;
+
+	printf("\n char : %c",u);
+	printf("\n char ascii : %d",u);
+
+	getch();
+}

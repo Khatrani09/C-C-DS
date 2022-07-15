@@ -1,0 +1,29 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int s,s1,s2,s3,s4,total;
+	clrscr();
+	printf("Enter your salary:");
+	scanf("%d",&s);
+
+	if(0<s && s<=2500)
+	{
+		s1 = 0*s/100;
+	}
+	if(2500<s && s<=5000)
+	{
+		s2 = s*0.1;
+	}
+	if(5000<s && s<=10000)
+	{
+		s3 = s*0.2;
+	}
+	if(s>10000)
+	{
+		s4 = s*0.3;
+	}
+	       total =s1+s2+s3+s4;
+		printf("\nTotal Tax :%d",total);
+	getch();
+}

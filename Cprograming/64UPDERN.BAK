@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	char i,a,b;
+	clrscr();
+	for(i=65;i<=89;i+=4)
+	{
+		if(i%2!=0)
+		{
+		a=i;
+		b =a+34;
+		printf("\t%c",a);
+		printf("\t%c",b);
+
+		}
+
+       }
+
+
+
+	getch();
+}

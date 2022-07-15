@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    int n=10,*m;
+    printf("\n value of n:%d",n);
+    printf("\n address of n:%u",&n);
+
+    m=&n;
+    printf("\n values of n : %d",n);
+    printf("\n address of m :%u",&m);
+    printf("\n address of n using m:%u",m);
+
+}
